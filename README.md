@@ -1,1 +1,1 @@
-"# VtexIO - Store Block - Evoluá∆o Aprendizado " 
+"# VtexIO - Store Block - Evolu√ß√£o Aprendizado " 
